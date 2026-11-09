@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.linkbuzz.online/p/movie.html", 
+      "permanent": true 
+    } 
+  ] 
+}
